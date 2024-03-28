@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { axiosConfig } from '@babycare/proxy';
-import { sleep } from '@babycare/sleep';
-import { formatTimestamp } from '@babycare/date-time-processor';
-import { log } from '@babycare/log';
+import { axiosConfig } from '@babycarerere1/proxy';
+import { sleep } from '@babycarerere1/sleep';
+import { formatTimestamp } from '@babycarerere1/date-time-processor';
+import { log } from '@babycarerere1/log';
 
 const retryDuration = 1000;
 
